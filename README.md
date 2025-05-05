@@ -23,11 +23,10 @@ API: OpenWeatherMap API
 **Install dependencies:**
 
 npm install
-Obtain OpenWeatherMap API Key:
 
-Sign up at OpenWeatherMap to get your API key.
+**Obtain OpenWeatherMap API Key:**
 
-Configure Environment Variables:
+**Configure Environment Variables:**
 
 Create a .env file in the root directory and add your API key:
 
